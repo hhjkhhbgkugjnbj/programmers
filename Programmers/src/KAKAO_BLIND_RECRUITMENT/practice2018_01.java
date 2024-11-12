@@ -1,6 +1,6 @@
-package KAKAO_BLIND_RECRUITMENT_2018;
+package KAKAO_BLIND_RECRUITMENT;
 // [1차] 비밀지도
-public class practice01 {
+public class practice2018_01 {
 	public static void main(String[] args) {
 //		int n = 5;
 //		int[] arr1 = {9, 20, 28, 18, 11};

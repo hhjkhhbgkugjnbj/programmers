@@ -1,10 +1,10 @@
-package Kakao_2019_Developer_Winter_Internship;
+package Kakao_Developer_Winter_Internship;
 
 import java.util.Arrays;
 import java.util.Stack;
 
 // 크레인 인형뽑기 게임
-public class practice01 {
+public class practice2019_01 {
 	public static void main(String[] args) {
 //		// 2차원 공간 배열 board 맨 위 -> 맨 아래 층
 //		int[][] board = {{0,0,0,0,0},{0,0,1,0,3},{0,2,5,0,1},{4,2,4,4,2},{3,5,1,3,1}};

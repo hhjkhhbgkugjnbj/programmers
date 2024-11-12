@@ -1,6 +1,6 @@
-package KAKAO_BLIND_RECRUITMENT_2021;
+package KAKAO_BLIND_RECRUITMENT;
 // 신규 아이디 추천
-public class practice01 {
+public class practice2021_01 {
 	public static void main(String[] args) {
 		String new_id = "z-+.^.";
 //		// 문자열 소문자화

@@ -1,7 +1,7 @@
-package KAKAO_BLIND_RECRUITMENT_2018;
+package KAKAO_BLIND_RECRUITMENT;
 
 // [1차] 다트 게임
-public class practice02 {
+public class practice2018_02 {
 	public static void main(String[] args) {
 		String dartResult = "1D2S#10S";
 		int[] result = new int[3];
